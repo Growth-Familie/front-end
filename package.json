@@ -1,0 +1,27 @@
+{
+  "name": "front-end-growth-familie",
+  "version": "1.0.0",
+  "description": "Front-End Growth Familie - Tim C22-128",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Growth-Familie/front-end.git"
+  },
+  "author": "Tim C22-128",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Growth-Familie/front-end/issues"
+  },
+  "homepage": "https://github.com/Growth-Familie/front-end#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
