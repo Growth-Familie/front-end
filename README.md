@@ -1,4 +1,7 @@
 # LOGIN DAN DASHBOARD
+
+**`JANGAN MERGE/COMPARE & PULL REQUEST BRANCH INI KE MASTER`**.<br>
+
 Tampilan login dan dashboard yang digunakan saat ini hanya seadanya dulu dan dibangun menggunakan bootstrap karena fokusnya hanya pada bagian fungsi-fungsi yang diperlukan agar login dan dashboard berjalan. Jadi jika ingin menyesuaikan kembali tampilan bisa merubahnya di bagian *./src/srcipts/templates/templates-craetor.js*.<br>
 
 Perlu diperhatikan juga bahwa saat akan digunakan/digabungkan dengan bagian yang sedang kamu bangun pastikan untuk menyesuaikan kembali beberapa bagian penamaan file, variabel, class, selector, dsb.
